@@ -23,10 +23,7 @@ An open source collection of modular synthesizer panel templates for the DIY'er.
 
 * [KiCad](http://kicad-pcb.org/) - Used for creating templates.
 
-### Authors
-
-* **Bryan Malley** - *Initial work* - [retoid](https://github.com/retoid)
-
 ### Contributors
 
+* Add name...
 * Bryan Malley (retoid)
