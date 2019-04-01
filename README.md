@@ -1,6 +1,6 @@
 # Modular Panel Templates
 
-An open source collection of modular synthesizer panel templates for the DIY'er.
+An open source collection of modular synthesizer panel templates for the DIY'er who seeks to create a custom panel.
 
 ## About the template files
 
