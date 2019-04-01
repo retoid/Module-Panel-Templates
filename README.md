@@ -25,7 +25,7 @@ An open source collection of modular synthesizer panel templates for the DIY'er.
 
 ## Authors
 
-* **Bryan Malley** - *Initial work* - [BKM Panels](https://github.com/retoid)
+* **Bryan Malley** - *Initial work* - [retoid](https://github.com/retoid)
 
 ## Contributors
 
