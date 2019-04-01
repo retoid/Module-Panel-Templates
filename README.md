@@ -13,6 +13,7 @@ An open source collection of modular synthesizer panel templates for the DIY'er.
 
 * Before creating a pull request please make sure there is at least an SVG file labeled correctly as shown above.
 * The SVG file must contain vector lines at the exact size of it's relating panel. *(Please do not convert your lines to shapes!)*
+* Please make sure all drill holes and cut outs are sized and positioned accurately!
 * Other vector files and project files are accepted.
 * Thank you for participating and sharing!
 
