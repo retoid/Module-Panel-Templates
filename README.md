@@ -13,7 +13,7 @@ An open source collection of modular synthesizer panel templates for the DIY'er 
 
 *Not all templates have been fitted and tested to their relating module to insure that the drill positions are correct. In order to prevent mishaps, panel template files may have labels appended to the end of the file name:*
 
-* **_Tested** - The panel template has been tested and fitted to it's relating module.
+* **_Tested** - The panel template has been tested and fitted to it's relating module and fits correctly.
 * **_Fix** - The panel has or has not been tested but knowingly needs adjustments and re-testing.
 * **_NotTested or no appended label** - The panel has not been tested and fitted to it's relating module, but is aligned as accurate as possible.
 
