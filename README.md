@@ -2,7 +2,7 @@
 
 An open source collection of modular synthesizer panel templates for the DIY'er who seeks to create a custom panel.
 
-## About the template files
+## About the Template Files
 
 * The goal is to offer the template files in a consistent and uniform manner.
 * All templates shall have at the very minimum 1 **Make_Model_Template.svg** file.
@@ -19,6 +19,13 @@ An open source collection of modular synthesizer panel templates for the DIY'er 
 
 ## Acknowledgments
 
+### Other Open Source Module Templates
+
+* [Mutable Instruments](https://github.com/pichenettes/eurorack)
+* [mxmxmx](https://github.com/mxmxmx)
+* [Jakplugg](https://github.com/jakplugg)
+* [4ms](https://4mscompany.com/)
+
 ### Built With
 
 * [KiCad](http://kicad-pcb.org/) - Used for creating templates.
@@ -27,3 +34,14 @@ An open source collection of modular synthesizer panel templates for the DIY'er 
 
 * Add name...
 * Bryan Malley (retoid)
+
+### Thank You's
+
+Thank you to all the modular synthesists out there who've chosen to help out by sharing their module panels in order to help this collection grow!
+
+Thank you to all the module makers out there who've chosen to share their awesome designs!
+
+Thank you to the Synthesizers, Yo Discord and all of it's great and helpful members!
+
+Thank you to ModularGrid.net for creating and maintaining such a helpful tool for the modular synthesist community!
+
