@@ -27,11 +27,12 @@ An open source collection of modular synthesizer panel templates for the DIY'er 
 
 ## Acknowledgments
 
-### Other Open Source Module Templates
+### Other Open Source Module Panel Templates
 
 * [Mutable Instruments](https://github.com/pichenettes/eurorack)
 * [Non Linear Circuits](http://www.sdiy.org/pinky/data/data.html)
 * [mxmxmx](https://github.com/mxmxmx)
+* [Møffenzeef Mødular](https://github.com/moffenzeefmodular)
 * [Jakplugg](https://github.com/jakplugg)
 * [4ms](https://4mscompany.com/)
 
