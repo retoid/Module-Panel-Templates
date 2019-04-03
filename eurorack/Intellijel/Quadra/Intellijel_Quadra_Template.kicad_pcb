@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 61)
+    (drawings 60)
     (tracks 0)
     (zones 0)
     (modules 0)
@@ -109,7 +109,6 @@
   (gr_circle (center 37.3 100.3) (end 40.475 100.3) (layer Eco2.User) (width 0.2) (tstamp 5CA40ECC))
   (gr_circle (center 23.3 100.3) (end 26.475 100.3) (layer Eco2.User) (width 0.2) (tstamp 5CA40EC7))
   (gr_circle (center 9.4 100.3) (end 12.575 100.3) (layer Eco2.User) (width 0.2))
-  (gr_circle (center 30.3 62.3) (end 31.9 62.3) (layer Eco2.User) (width 0.2) (tstamp 5CA3FFA3))
   (gr_circle (center 30.3 84.2) (end 31.9 84.2) (layer Eco2.User) (width 0.2) (tstamp 5CA3FFA2))
   (gr_circle (center 47.3 84.2) (end 51.8 84.2) (layer Eco2.User) (width 0.2) (tstamp 5CA3FFA1))
   (gr_circle (center 13.3 84.2) (end 17.8 84.2) (layer Eco2.User) (width 0.2) (tstamp 5CA3FFA0))
