@@ -15,7 +15,7 @@ An open source collection of modular synthesizer panel templates for the DIY'er 
 
 * **_Tested** - The panel template has been tested and fitted to it's relating module and fits correctly.
 * **_Fix** - The panel has or has not been tested but knowingly needs adjustments and re-testing.
-* **_NotTested or no appended label** - The panel has not been tested and fitted to it's relating module, but is aligned as accurate as possible.
+* **_NotTested** or **no appended label** - The panel has not been tested and fitted to it's relating module, but is aligned as accurate as possible.
 
 ### Template Contributing
 
@@ -29,6 +29,7 @@ An open source collection of modular synthesizer panel templates for the DIY'er 
 
 ### Other Open Source Module Panel Templates
 
+* [Mannequins](https://github.com/whimsicalraps/MannequinsPanels)
 * [Mutable Instruments](https://github.com/pichenettes/eurorack)
 * [Non Linear Circuits](http://www.sdiy.org/pinky/data/data.html)
 * [mxmxmx](https://github.com/mxmxmx)
