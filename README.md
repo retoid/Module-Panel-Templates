@@ -25,8 +25,6 @@ An open source collection of modular synthesizer panel templates for the DIY'er 
 * Other vector files and project files are accepted.
 * Thank you for participating and sharing!
 
-## Acknowledgments
-
 ### Other Open Source Module Panel Templates
 
 * [Mannequins](https://github.com/whimsicalraps/MannequinsPanels)
@@ -36,6 +34,8 @@ An open source collection of modular synthesizer panel templates for the DIY'er 
 * [Møffenzeef Mødular](https://github.com/moffenzeefmodular)
 * [Jakplugg](https://github.com/jakplugg)
 * [4ms](https://4mscompany.com/)
+
+## Acknowledgments
 
 ### Built With
 
