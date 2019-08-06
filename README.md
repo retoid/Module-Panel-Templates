@@ -2,6 +2,16 @@
 
 An open source collection of modular synthesizer panel templates for the DIY'er who seeks to create a custom panel.
 
+### List of awesome companies already willing to share their panel templates!
+
+* [Mannequins](https://github.com/whimsicalraps/MannequinsPanels)
+* [Mutable Instruments](https://github.com/pichenettes/eurorack)
+* [Non Linear Circuits](http://www.sdiy.org/pinky/data/data.html)
+* [mxmxmx](https://github.com/mxmxmx)
+* [Møffenzeef Mødular](https://github.com/moffenzeefmodular)
+* [Jakplugg](https://github.com/jakplugg)
+* [4ms](https://4mscompany.com/)
+
 ## About the Template Files
 
 * The goal is to offer the template files in a consistent and uniform manner.
@@ -25,26 +35,11 @@ An open source collection of modular synthesizer panel templates for the DIY'er 
 * Other vector files and project files are accepted.
 * Thank you for participating and sharing!
 
-### Other Open Source Module Panel Templates
-
-* [Mannequins](https://github.com/whimsicalraps/MannequinsPanels)
-* [Mutable Instruments](https://github.com/pichenettes/eurorack)
-* [Non Linear Circuits](http://www.sdiy.org/pinky/data/data.html)
-* [mxmxmx](https://github.com/mxmxmx)
-* [Møffenzeef Mødular](https://github.com/moffenzeefmodular)
-* [Jakplugg](https://github.com/jakplugg)
-* [4ms](https://4mscompany.com/)
-
 ## Acknowledgments
 
 ### Built With
 
 * [KiCad](http://kicad-pcb.org/) - Used for creating templates.
-
-### Contributors
-
-* Add name...
-* Bryan Malley (retoid)
 
 ### Thank You's
 
