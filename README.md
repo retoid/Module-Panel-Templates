@@ -10,7 +10,6 @@ An open source collection of modular synthesizer panel templates for the DIY'er 
 * [mxmxmx](https://github.com/mxmxmx)
 * [Møffenzeef Mødular](https://github.com/moffenzeefmodular)
 * [Jakplugg](https://github.com/jakplugg)
-* [4ms](https://4mscompany.com/)
 
 ## About the Template Files
 
