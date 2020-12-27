@@ -38,7 +38,7 @@ An open source collection of modular synthesizer panel templates for the DIY'er 
 
 ### Built With
 
-* [KiCad](http://kicad-pcb.org/) - Used for creating templates.
+* [KiCad 5.0.1_4](http://kicad-pcb.org/) - Used for creating templates.
 
 ### Thank You's
 
