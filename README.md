@@ -16,7 +16,7 @@ An open source collection of modular synthesizer panel templates for the DIY'er 
 * The goal is to offer the template files in a consistent and uniform manner.
 * All templates shall have at the very minimum 1 **Make_Model_Template.svg** file.
 
-*Template folders may consist of multiple files such as [KiCad](http://kicad-pcb.org/) project files or other relevant files.*
+*Template folders may consist of multiple files such as [KiCad](http://kicad.org/) project files or other relevant files.*
 
 ### Disclaimer!
 
@@ -38,7 +38,7 @@ An open source collection of modular synthesizer panel templates for the DIY'er 
 
 ### Built With
 
-* [KiCad 5.0.1_4](http://kicad-pcb.org/) - Used for creating templates.
+* [KiCad 5.0.1_4](http://kicad.org/) - Used for creating templates.
 
 ### Thank You's
 
